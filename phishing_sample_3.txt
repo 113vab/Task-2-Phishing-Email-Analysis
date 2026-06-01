@@ -1,0 +1,15 @@
+From: admin@microsoft365-support.net
+Subject: Password Expiration Notice
+
+Dear User,
+
+Your Microsoft 365 password is scheduled to expire today.
+
+To continue accessing your email services, please update your password immediately using the secure portal below:
+
+http://microsoft365-password-update.net
+
+Failure to update your password today will result in account deactivation.
+
+Thank you,
+Microsoft Support Team
