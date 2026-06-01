@@ -1,1 +1,15 @@
+From: support@sbi-security-alert.com
+Subject: Urgent: Your SBI Account Has Been Locked
 
+Dear Customer,
+
+Due to multiple failed login attempts, your SBI account has been temporarily locked.
+
+To restore access, please verify your account immediately by clicking the link below:
+
+http://sbi-account-verification-login.com
+
+Failure to verify your account within 12 hours may result in permanent account suspension.
+
+Thank you,
+SBI Security Team
